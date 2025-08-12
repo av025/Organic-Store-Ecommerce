@@ -1,0 +1,8 @@
+{
+  "header" :  {
+    "applicationName" : "Organic Store", 
+    "headerNavbar" : ["About", "Everything", "Groceries", "Juice", "Contact"]
+    
+  }
+} 
+

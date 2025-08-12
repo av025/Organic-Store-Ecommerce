@@ -5,7 +5,7 @@ import ContactPage from "./pages/ContactPage"
 import ShopPage from "./pages/ShopPage"
 import JuicePage from "./pages/JuicePage"
 import GroceriesPage from "./pages/GroceriesPage"
-import Navbar from "./components/Navbar/Navbar"
+import Navbar from "./components/Navbar"
 
 
 function App() {
